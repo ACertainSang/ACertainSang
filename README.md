@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sang chunyu
-- 👀 I’m interested DL
+- 👀 I’m interested in DL
 - 🌱 I’m currently studying at Renmin University of China ...
 
 
