@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sang chunyu
+- 👋 Hi, I’m Tiny Grass
 - 👀 I’m interested in DL
 - 🌱 I’m currently studying at Renmin University of China ...
 
